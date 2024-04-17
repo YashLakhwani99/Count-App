@@ -1,26 +1,16 @@
-# Provider Counter App
+# counter_app_using_provider
 
-This Flutter app is a basic counter application built using the Provider package for state management. It allows users to increment, decrement, and reset a counter.
+A new Flutter project.
 
-## Features
+## Getting Started
 
-- Increment the counter with the "+" button.
-- Decrement the counter with the "-" button.
-- Reset the counter to zero with the "Reset" button.
-- Efficient state management using Provider.
+This project is a starting point for a Flutter application.
 
-## Demo
+A few resources to get you started if this is your first Flutter project:
 
-https://github.com/YashLakhwani99/Count-App/assets/110691495/97773152-2ff2-4210-802e-2b0e0c3871b0
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Usage
-
-Once the app is running on your device, use the buttons to perform the following actions:
-
-- Press the "+" button to increment the counter.
-- Press the "-" button to decrement the counter.
-- Press the "Reset" button to reset the counter to zero.
-
-## State Management with Provider
-
-This app utilizes the Provider package for state management. Provider is a powerful and flexible state management solution for Flutter applications, offering a simple API and efficient performance.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
