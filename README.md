@@ -11,7 +11,7 @@ This Flutter app is a basic counter application built using the Provider package
 
 ## Demo
 
-[Link to Screen Recording](<link_to_screen_recording>)
+https://github.com/YashLakhwani99/Count-App/assets/110691495/14d24952-82fd-40c0-a7cf-7d6111c4ba80
 
 ## Usage
 
