@@ -1,6 +1,5 @@
 import 'package:counter_app_using_provider/Models/CounterNotifier.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:provider/provider.dart';
 
 class HomePage extends StatefulWidget {
@@ -33,13 +32,13 @@ class _HomePageState extends State<HomePage> {
                 alignment: Alignment.bottomCenter,
                 child: Column(
                   children: [
-                    SizedBox(
+                    const SizedBox(
                       height: 150,
                     ),
                     Text(
                       value.ans.toString(),
                       textAlign: TextAlign.center,
-                      style: TextStyle(color: Colors.black, fontSize: 175),
+                      style: const TextStyle(fontSize: 175),
                     ),
                     const SizedBox(
                       height: 175,
